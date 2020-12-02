@@ -1,6 +1,7 @@
 # Ruby
 
-### Run
-```
+## Run
+
+```bash
 ruby fizz_buzz.rb
 ```

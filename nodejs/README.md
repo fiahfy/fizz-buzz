@@ -1,11 +1,13 @@
 # Node.js
 
-### Requirements
-```
+## Requirements
+
+```bash
 brew install node
 ```
 
-### Run
-```
+## Run
+
+```bash
 node fizz-buzz.js
 ```

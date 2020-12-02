@@ -1,11 +1,13 @@
 # Python
 
-### Requirements
-```
+## Requirements
+
+```bash
 brew install python
 ```
 
-### Run
-```
+## Run
+
+```bash
 python3 fizz_buzz.py
 ```
